@@ -101,10 +101,10 @@ p {
   }
   100% {
     top: -0px;
-    left: -20px;
-    right: -20px;
-    bottom: -200px;
-    font-size: 24px;
+    left: -25px;
+    right: -25px;
+    bottom: -150px;
+    font-size: 22px;
   }
 }
 
