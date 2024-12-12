@@ -101,9 +101,9 @@ p {
   }
   100% {
     top: -0px;
-    left: -55px;
-    right: -25px;
-    bottom: -100px;
+    left: -20px;
+    right: -20px;
+    bottom: -130px;
     font-size: 24px;
   }
 }
